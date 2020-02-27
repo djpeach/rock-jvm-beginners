@@ -1,0 +1,2 @@
+javap -p sayHi
+console

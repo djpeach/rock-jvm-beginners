@@ -5,3 +5,7 @@ public class JavaPlayground {
         System.out.println("Hello Java");
     }
 }
+
+class Person {
+    public static final int age = 0;
+}
